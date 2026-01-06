@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
         private const val FILE_PICKER_REQUEST = 1001
         
         // Cloudflare tunnel URL
-        private const val WEB_URL = "https://experiments-visits-butter-chosen.trycloudflare.com"
+        private const val WEB_URL = "https://native-capabilities-9ujn0zbn9-manishhundekars-projects.vercel.app"
     }
 
     private lateinit var webView: WebView
